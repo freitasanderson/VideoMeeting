@@ -10,7 +10,7 @@ Inicia um servidor WebSocket que aceita conexões de múltiplos clientes. Quando
 #### Cliente WebSocket: 
 Conecta-se ao servidor WebSocket e inicia a captura de vídeo da câmera. Cada frame de vídeo capturado é convertido em Base64 e enviado para o servidor. O cliente também recebe os frames de vídeo dos outros clientes conectados e os exibe localmente usando OpenCV.
 
-
+[Link do Vídeo de demonstação](https://youtube.com/shorts/MYzu-d4xWpQ?feature=share)
 
 ### Documentação das Bibliotecas e Conceitos Utilizados:
 #### Asyncio (asyncio):
